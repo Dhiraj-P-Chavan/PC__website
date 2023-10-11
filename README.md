@@ -1,1 +1,2 @@
-"# PC__website"  https://pikacartoons.netlify.app/
+Pikacartoon_website is your ultimate destination for all things Pokemon, providing a comprehensive collection of every season and movie from the beloved Pokemon cartoon series. Our website is designed to cater to fans of all ages, offering a user-friendly and fully responsive experience on mobile devices and tablets. With a dedicated page for each episode and season, we ensure that fans can easily navigate and explore the Pokemon world to relive their favorite moments.
+"#Pikacartoon_website"  https://pikacartoons.netlify.app/
